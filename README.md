@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` file for the [Tour and Travels](https://github.com/devjyotiprajapati/tour-and-travels) repository by [devjyotiprajapati](https://github.com/devjyotiprajapati).
-
----
-
 # Tour and Travels
 
 A web-based travel booking platform developed using ASP.NET Web Forms. This application enables users to book bus, train, and tour packages, manage their bookings, and access various travel-related services.
